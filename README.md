@@ -7,4 +7,4 @@
 #### LGBM model: 0.322
 #### HGBR model: 0.327
 #### GBR model: 0.319
-#### DNN model: 0.326
+#### DNN model: 0.328
